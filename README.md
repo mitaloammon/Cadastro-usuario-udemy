@@ -10,7 +10,7 @@ Antes de executar o sistema, certifique-se de ter as seguintes ferramentas insta
 
 [Node.JS](https://nodejs.org)
 
-[Npm](https://www.npmjs.com/)```(gerenciador de pacotes do Node.js)```
+[Npm](https://www.npmjs.com/)
 
 ### Instalação.
 
