@@ -1,16 +1,16 @@
 # Cadastro de Usuário (React ^18.2.0)
 
 Sistema web para cadastro de usuário 
-realizado através do **Curso Web Moderno Completo com JavaScript 2022 + Projetos** ministrado pela **Cod3r**
+realizado através do **Curso Web Moderno Completo com JavaScript 2022 + Projetos** no módulo _React_, ministrado pela **Cod3r**
 através da plataforma  [Udemy](https://www.udemy.com).
 
 ### Pré-requisito.
 
-Antes de executar o sistema, certifique-se de ter o seguinte instalado em sua máquina:
+Antes de executar o sistema, certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
 
 [Node.JS](https://nodejs.org)
 
-[Npm ](https://www.npmjs.com/)```(gerenciador de pacotes do Node.js)```
+[Npm](https://www.npmjs.com/)```(gerenciador de pacotes do Node.js)```
 
 ### Instalação.
 
