@@ -34,10 +34,6 @@ Antes de executar o sistema, certifique-se de ter o seguinte instalado em sua m�
 
 A página do sistema de cadastro de usuário será exibida e você poderá interagir com as funcionalidades disponíveis.
 
-### Funcionalidades.
-
-- O sistema de cadastro de usuário possui as seguintes funcionalidades:
-
 ### Licença.
 
 Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
