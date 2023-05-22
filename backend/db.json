@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Lucas Silveira",
+      "email": "lucassilveira@cod3r.com.br"
+    },
+    {
+      "id": 2,
+      "name": "Juliana Fonseca",
+      "email": "juhfonseca@empresa.com"
+    },
+    {
+      "name": "Caique Azevedo",
+      "email": "mitaloammon@hotmail.com",
+      "id": 3
+    },
+    {
+      "name": "Caique Azevedo",
+      "email": "luaoammon@hotmail.com",
+      "id": 4
+    },
+    {
+      "name": "Mitalo Ammon Rodrigues Ribeiro",
+      "email": "laun@dev.com.br",
+      "id": 5
+    },
+    {
+      "name": "Caique Azevedo",
+      "email": "mitaloammon68@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Caique Azevedo",
+      "email": "luaoammon@hotmail.com",
+      "id": 7
+    },
+    {
+      "name": "Mitalo Ammon Rodrigues Ribeiro",
+      "email": "mitaloammon68@gmail.com",
+      "id": 8
+    }
+  ]
+}
