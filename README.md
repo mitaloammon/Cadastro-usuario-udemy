@@ -1,39 +1,39 @@
-# Cadastro de Usuário (React ^18.2.0)
+# Registration System (React ^18.2.0)
 
-Sistema web para cadastro de usuário 
-realizado através do **Curso Web Moderno Completo com JavaScript 2022 + Projetos** no módulo _React_, ministrado pela **Cod3r**
-através da plataforma  [Udemy](https://www.udemy.com).
+Web system for user registration
+carried out through the **Complete Modern Web Course with JavaScript 2022 + Projects** in the _React_ module, taught by **Cod3r**
+through the platform [Udemy](https://www.udemy.com).
 
-### Pré-requisito.
+### Prerequisite.
 
-Antes de executar o sistema, certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
+Before running the system, make sure you have the following tools installed on your machine:
 
 [Node.JS](https://nodejs.org)
 
 [Npm](https://www.npmjs.com/)
 
-### Instalação.
+### Installation.
 
-- Clone este repositório para o seu diretório local:
+- Clone this repository to your local directory:
 
-```https://github.com/mitaloammon/Cadastro-usuario-udemy```
+```https://github.com/mitaloammon/cadastro-usuario-udemy```
 
-- Acesse o diretório do projeto:
+- Access the project directory:
 
-```cd cadastro-usuario```
+```cd user-registration```
 
-- Instale as dependências do projeto:
+- Install project dependencies:
 
 ```npm install```
 
-### Executando o Sistema.
+### Running the System.
 
-- Abra o seu navegador e acesse a URL:
+- Open your browser and access the URL:
 
 ```http://localhost:3000```
 
-A página do sistema de cadastro de usuário será exibida e você poderá interagir com as funcionalidades disponíveis.
+The user registration system page will be displayed and you will be able to interact with the available features.
 
-### Licença.
+### License.
 
-Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
